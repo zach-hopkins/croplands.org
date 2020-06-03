@@ -1,0 +1,7 @@
+Flask<0.20.0
+flask-compress
+gevent<1.2.0
+grunt
+gunicorn
+requests
+werkzeug<1.0.0
